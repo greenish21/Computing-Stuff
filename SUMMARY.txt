@@ -1,0 +1,4 @@
+Average: 64.2
+Maximum: 100
+Feliz is the top scorer
+7 people passed

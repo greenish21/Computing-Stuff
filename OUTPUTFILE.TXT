@@ -1,0 +1,10 @@
+Student Results
+Ann: 80  (Grade: A1)
+Ben: 65  (Grade: B2)
+Cal: 54  (Grade: C3)
+Dan: 38  (Grade: F4)
+Eve: 72  (Grade: A1)
+
+Percentage passes = 80.0
+MSG = 2.2
+Top student = Ann
